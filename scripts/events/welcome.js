@@ -5,8 +5,8 @@ if (!global.temp.welcomeEvent)
 module.exports = {
 	config: {
 		name: "welcome",
-		version: "1.7",
-		author: "NTKhang",
+		version: "1.9",
+		author: "myoun",
 		category: "events"
 	},
 
@@ -16,24 +16,24 @@ module.exports = {
 			session2: "trưa",
 			session3: "chiều",
 			session4: "tối",
-			welcomeMessage: "Cảm ơn bạn đã mời tôi vào nhóm!\nPrefix bot: %1\nĐể xem danh sách lệnh hãy nhập: %1help",
+			welcomeMessage: "🌟 ━━━━━━━━━━━━━━━ 🌟\n🤖 **𝐁𝐎𝐓 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋**\n🌟 ━━━━━━━━━━━━━━━ 🌟\n\n✨ 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐚𝐝𝐝𝐢𝐧𝐠 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩! ❤️\n\n📌 **𝐆𝐫𝐨𝐮𝐩 𝐍𝐚𝐦𝐞:** {boxName}\n👑 **𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫:** মা ই য়ু ন\n🌐 **𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲:** 𝐂𝐮𝐭𝐞 𝐁𝐚𝐫𝐫𝐲 🦋\n👤 **𝐀𝐝𝐝𝐞𝐝 𝐁𝐲:** {adderName}\n⚙️ **𝐁𝐨𝐭 𝐏𝐫𝐞𝐟𝐢𝐱:** %1\n\n🚀 𝐓𝐲𝐩𝐞 𝐭𝐨 𝐬𝐞𝐞 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬: %1𝐡𝐞𝐥𝐩\n🌟 ━━━━━━━━━━━━━━━ 🌟",
 			multiple1: "bạn",
 			multiple2: "các bạn",
-			defaultWelcomeMessage: "Xin chào {userName}.\nChào mừng bạn đến với {boxName}.\nChúc bạn có buổi {session} vui vẻ!"
+			defaultWelcomeMessage: "🌟 ━━━━━━━━━━━━━━━ 🌟\n🤖 **𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐇𝐄 𝐆𝐑𝐎𝐔𝐏**\n🌟 ━━━━━━━━━━━━━━━ 🌟\n\n✨ **𝐖𝐞𝐥𝐜𝐨𝐦𝐞, {userName}!** ❤️\n\n📌 **𝐆𝐫𝐨𝐮𝐩 𝐍𝐚𝐦𝐞:** {boxName}\n👑 **𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫:** মা ই য়ু ন\n👤 **𝐀𝐝𝐝𝐞𝐝 𝐁𝐲:** {adderName}\n🌐 **𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲:** 𝐂𝐮𝐭𝐞 𝐁𝐚𝐫𝐫𝐲 🦋\n\n🚀 𝐄𝐧𝐣𝐨𝐲 𝐲𝐨𝐮𝐫 𝐭𝐢𝐦𝐞 𝐡𝐞𝐫𝐞!\n🌟 ━━━━━━━━━━━━━━━ 🌟"
 		},
 		en: {
 			session1: "morning",
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
+			welcomeMessage: "🌟 ━━━━━━━━━━━━━━━ 🌟\n🤖 **𝐁𝐎𝐓 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐈𝐎𝐍 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋**\n🌟 ━━━━━━━━━━━━━━━ 🌟\n\n✨ 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐚𝐝𝐝𝐢𝐧𝐠 𝐦𝐞 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐠𝐫𝐨𝐮𝐩! ❤️\n\n📌 **𝐆𝐫𝐨𝐮𝐩 𝐍𝐚𝐦𝐞:** {boxName}\n👑 **𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫:** মা ই য়ু ন\n🌐 **𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲:** 𝐂𝐮𝐭𝐞 𝐁𝐚𝐫𝐫𝐲 🦋\n👤 **𝐀𝐝𝐝𝐞𝐝 𝐁𝐲:** {adderName}\n⚙️ **𝐁𝐨𝐭 𝐏𝐫𝐞𝐟𝐢𝐱:** %1\n\n🚀 𝐓𝐲𝐩𝐞 𝐭𝐨 𝐬𝐞𝐞 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬: %1𝐡𝐞𝐥𝐩\n🌟 ━━━━━━━━━━━━━━━ 🌟",
 			multiple1: "you",
 			multiple2: "you guys",
-			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
+			defaultWelcomeMessage: "🌟 ━━━━━━━━━━━━━━━ 🌟\n🤖 **𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐓𝐇𝐄 𝐆𝐑𝐎𝐔𝐏**\n🌟 ━━━━━━━━━━━━━━━ 🌟\n\n✨ **𝐖𝐞𝐥𝐜𝐨𝐦𝐞, {userName}!** ❤️\n\n📌 **𝐆𝐫𝐨𝐮𝐩 𝐍𝐚𝐦𝐞:** {boxName}\n👑 **𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫:** মা ই য়ু ন\n👤 **𝐀𝐝𝐝𝐞𝐝 𝐁𝐲:** {adderName}\n🌐 **𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲:** 𝐂𝐮𝐭𝐞 𝐁𝐚𝐫𝐫𝐲 🦋\n\n🚀 𝐄𝐧𝐣𝐨𝐲 𝐲𝐨𝐮𝐫 𝐭𝐢𝐦𝐞 𝐡𝐞𝐫𝐞!\n🌟 ━━━━━━━━━━━━━━━ 🌟"
 		}
 	},
 
-	onStart: async ({ threadsData, message, event, api, getLang }) => {
+	onStart: async ({ threadsData, message, event, api, getLang, usersData }) => {
 		if (event.logMessageType == "log:subscribe")
 			return async function () {
 				const hours = getTime("HH");
@@ -41,12 +41,31 @@ module.exports = {
 				const { nickNameBot } = global.GoatBot.config;
 				const prefix = global.utils.getPrefix(threadID);
 				const dataAddedParticipants = event.logMessageData.addedParticipants;
+				
 				// if new member is bot
 				if (dataAddedParticipants.some((item) => item.userFbId == api.getCurrentUserID())) {
 					if (nickNameBot)
 						api.changeNickname(nickNameBot, threadID, api.getCurrentUserID());
-					return message.send(getLang("welcomeMessage", prefix));
+					
+					const adderID = event.author;
+					let adderName = "Admin";
+					try {
+						const userInfo = await usersData.get(adderID);
+						adderName = userInfo?.name || "User";
+					} catch (e) {
+						adderName = "User";
+					}
+
+					const threadInfo = await api.getThreadInfo(threadID);
+					const boxName = threadInfo.threadName || "This Group";
+
+					let msg = getLang("welcomeMessage", prefix)
+						.replace(/\{boxName\}/g, boxName)
+						.replace(/\{adderName\}/g, adderName);
+
+					return message.send(msg);
 				}
+
 				// if new member:
 				if (!global.temp.welcomeEvent[threadID])
 					global.temp.welcomeEvent[threadID] = {
@@ -54,12 +73,9 @@ module.exports = {
 						dataAddedParticipants: []
 					};
 
-				// push new member to array
 				global.temp.welcomeEvent[threadID].dataAddedParticipants.push(...dataAddedParticipants);
-				// if timeout is set, clear it
 				clearTimeout(global.temp.welcomeEvent[threadID].joinTimeout);
 
-				// set new timeout
 				global.temp.welcomeEvent[threadID].joinTimeout = setTimeout(async function () {
 					const threadData = await threadsData.get(threadID);
 					if (threadData.settings.sendWelcomeMessage == false)
@@ -74,6 +90,14 @@ module.exports = {
 					if (dataAddedParticipants.length > 1)
 						multiple = true;
 
+					const adderID = event.author;
+					let adderName = "Admin";
+					try {
+						adderName = await usersData.getName(adderID) || "User";
+					} catch (e) {
+						adderName = "User";
+					}
+
 					for (const user of dataAddedParticipants) {
 						if (dataBanned.some((item) => item.id == user.userFbId))
 							continue;
@@ -83,11 +107,6 @@ module.exports = {
 							id: user.userFbId
 						});
 					}
-					// {userName}:   name of new member
-					// {multiple}:
-					// {boxName}:    name of group
-					// {threadName}: name of group
-					// {session}:    session of day
 					if (userName.length == 0) return;
 					let { welcomeMessage = getLang("defaultWelcomeMessage") } =
 						threadData.data;
@@ -97,6 +116,7 @@ module.exports = {
 					welcomeMessage = welcomeMessage
 						.replace(/\{userName\}|\{userNameTag\}/g, userName.join(", "))
 						.replace(/\{boxName\}|\{threadName\}/g, threadName)
+						.replace(/\{adderName\}/g, adderName)
 						.replace(
 							/\{multiple\}/g,
 							multiple ? getLang("multiple2") : getLang("multiple1")
