@@ -13,12 +13,12 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "𝐌𝐲𝐨𝐮𝐧 𝐁𝐨𝐭 💀",
-  "prefix": "-",
+  "prefix": "+",
   "adminOnly": {
-    "enable": false,
+    "enable": true,
     "ignoreCommand": []
   },
-  "adminBot": [],
+  "adminBot": [100021922069388],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
